@@ -1,0 +1,8 @@
+1001-gdb-set target-async on
+1002-gdb-set solib-search-path D:\\Upwork History\\2017\\03\\20170318_Adafruit Feather\\Feather_Mqtt\\Release;
+1003-gdb-set stop-on-solib-events 1
+1004-exec-arguments -d D:\Upwork History\2017\03\20170318_Adafruit Feather\Feather_Mqtt\
+1005-environment-cd "D:\\Upwork History\\2017\\03\\20170318_Adafruit Feather\\Feather_Mqtt\\Release"
+1006-interpreter-exec console "show configuration"
+1007-file-exec-and-symbols "D:\\Upwork History\\2017\\03\\20170318_Adafruit Feather\\Feather_Mqtt\\Release\\Feather_Mqtt.ino.elf"
+-gdb-exit

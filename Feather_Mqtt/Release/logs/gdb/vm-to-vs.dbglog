@@ -1,0 +1,18 @@
+(gdb)
+1001^done
+GDB FileName:	C:\Users\Embedded\AppData\Local\arduino15\packages\arduino\tools\arm-none-eabi-gcc\4.8.3-2014q1/bin/arm-none-eabi-gdb
+GDB Working Dir:	
+GDB Args:	-interpreter=mi -d "D:\Upwork History\2017\03\20170318_Adafruit Feather\Feather_Mqtt"
+1002^done
+(gdb) 
+1003^done
+(gdb) 
+1004^done
+1005^done
+&"Undefined show command: \"configuration\".  Try \"help show\".\n"
+1006^error,msg="Undefined show command: \"configuration\".  Try \"help show\"."
+(gdb) 
+&"file \"C:\\\\Users\\\\Embedded\\\\AppData\\\\Local\\\\Temp\\\\VMBuilds\\\\Feather_Mqtt\\\\adafruit_adafruit_samd_adafruit_feather_m0\\\\Release\\\\Feather_Mqtt.ino.elf\"\n"
+&"C:\\Users\\Embedded\\AppData\\Local\\Temp\\VMBuilds\\Feather_Mqtt\\adafruit_adafruit_samd_adafruit_feather_m0\\Release\\Feather_Mqtt.ino.elf: No such file or directory.\n"
+1007^error,msg="C:\\Users\\Embedded\\AppData\\Local\\Temp\\VMBuilds\\Feather_Mqtt\\adafruit_adafruit_samd_adafruit_feather_m0\\Release\\Feather_Mqtt.ino.elf: No such file or directory."
+(gdb) 

@@ -1,0 +1,20 @@
+=thread-group-added,id="i1"
+~"GNU gdb (GNU Tools for ARM Embedded Processors) 7.6.0.20140228-cvs\n"
+~"Copyright (C) 2013 Free Software Foundation, Inc.\n"
+~"License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>\nThis is free software: you are free to change and redistribute it.\nThere is NO WARRANTY, to the extent permitted by law.  Type \"show copying\"\nand \"show warranty\" for details.\n"
+~"This GDB was configured as \"--host=i686-w64-mingw32 --target=arm-none-eabi\".\nFor bug reporting instructions, please see:\n"
+~"<http://www.gnu.org/software/gdb/bugs/>.\n"
+(gdb) 
+1001^done
+(gdb) 
+1002^done
+(gdb) 
+1003^done
+(gdb) 
+&"Undefined show command: \"configuration\".  Try \"help show\".\n"
+1006^error,msg="Undefined show command: \"configuration\".  Try \"help show\"."
+(gdb) 
+&"file \"C:\\\\Users\\\\Embedded\\\\AppData\\\\Local\\\\Temp\\\\VMBuilds\\\\Feather_Mqtt\\\\adafruit_adafruit_samd_adafruit_feather_m0\\\\Release\\\\Feather_Mqtt.ino.elf\"\n"
+&"C:\\Users\\Embedded\\AppData\\Local\\Temp\\VMBuilds\\Feather_Mqtt\\adafruit_adafruit_samd_adafruit_feather_m0\\Release\\Feather_Mqtt.ino.elf: No such file or directory.\n"
+^error,msg="C:\\Users\\Embedded\\AppData\\Local\\Temp\\VMBuilds\\Feather_Mqtt\\adafruit_adafruit_samd_adafruit_feather_m0\\Release\\Feather_Mqtt.ino.elf: No such file or directory."
+(gdb) 

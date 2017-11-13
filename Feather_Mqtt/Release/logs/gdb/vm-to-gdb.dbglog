@@ -1,0 +1,4 @@
+1001-gdb-set target-async on
+1002-gdb-set solib-search-path "C:\\Users\\Embedded\\AppData\\Local\\Temp\\VMBuilds\\Feather_Mqtt\\adafruit_adafruit_samd_adafruit_feather_m0\\Release;"
+1003-gdb-set stop-on-solib-events 1
+1006-interpreter-exec console "show configuration"
